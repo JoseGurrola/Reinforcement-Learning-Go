@@ -48,10 +48,10 @@ R | R | UR| UR| D | DR| DL| D | L | U |<br />
 
 ## Cliff-Walking
 **Solución al ejercicio 6.6 <br />**
-L | R | R | R | R | R | R | R | R | D | R | D |
-R | R | D | R | R | R | R | R | R | D | R | D |
-R | R | R | R | R | R | R | R | R | R | R | D |
-U | <-| <-| <-| <-| <-| <-| <-| <-| <-| <-| G |
+L | R | R | R | R | R | R | R | R | D | R | D |<br />
+R | R | D | R | R | R | R | R | R | D | R | D |<br />
+R | R | R | R | R | R | R | R | R | R | R | D |<br />
+U | <-| <-| <-| <-| <-| <-| <-| <-| <-| <-| G |<br />
 
 
 

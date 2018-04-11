@@ -3,20 +3,20 @@ Ejercicios resueltos de "Reinforcement Learning: An Introduction de Richard S. S
 
 ## Gambler's Problem
 ###Resultados.<br />
-###con ph = 0.4:<br /> 
+>con ph = 0.4:<br /> 
 ![valuefunctionfound0 4](https://user-images.githubusercontent.com/6053293/38634397-3ada7b44-3d77-11e8-91a0-0b4412a396b3.png)<br />
 ![finalpolicy0 4](https://user-images.githubusercontent.com/6053293/38634432-534fde9e-3d77-11e8-9bda-455114862e25.png)<br />
 
-###con ph = 0.25:<br />
+>con ph = 0.25:<br />
 ![valuefunctionfound0 25](https://user-images.githubusercontent.com/6053293/38634474-6e839778-3d77-11e8-9f71-a33ee0a080c7.png)<br />
 ![finalpolicy0 25](https://user-images.githubusercontent.com/6053293/38634472-6dc8f878-3d77-11e8-9522-cb7073d610a6.png)<br />
 
-###con ph = 0.55:<br />
+>con ph = 0.55:<br />
 ![valuefunctionfound0 55](https://user-images.githubusercontent.com/6053293/38634536-9b75ed9e-3d77-11e8-9d34-184242c87dcd.png)<br />
 ![finalpolicy0 55](https://user-images.githubusercontent.com/6053293/38634535-9b5a82c0-3d77-11e8-9fe2-5f096ab16e3d.png)<br /><br />
 
 ## Windy GridWorld
-###Solución al ejercicio 6.5 <br />
+>Solución al ejercicio 6.5 <br />
 D | D | U | R | R | R | R | R | R | D | <br />
 U | R | R | R | R | R | R | R | R | D |<br />
 R | R | R | L | R | R | R | L | R | D |<br />
@@ -26,7 +26,7 @@ R | R | R | R | R | R | L | D | L | L |<br />
 R | R | R | U | R | D | R | L | U | L |<br />
 0   0   0   1   1   1   2   2   1   0   <- wind <br /><br />
 
-###Solución al ejercicio 6.9 Windy Gridworld with King’s Moves <br />
+>Solución al ejercicio 6.9 Windy Gridworld with King’s Moves <br />
 R | L | R | R | DR| R | UR| UR| UR| D |<br />
 D | DR| DR| R | UR| UR| DR| R | R | D |<br />
 DR| D | D | R | R | R | DR| DR| R | DL|<br />
@@ -36,7 +36,7 @@ DR| UR| U | DR| DR| DR| R | D | UL| L |<br />
 DR| R | DR| DR| UR| UL| R | UL| D | UL|<br />
 0   0   0   1   1   1   2   2   1   0   <- wind <br /><br />
 
-###Solución al ejercicio 6.10 Stochastic Wind <br />
+>Solución al ejercicio 6.10 Stochastic Wind <br />
 UR| UR| R | DR| UR| DR| UR| U | R | DR|<br />
 UR| UR| UR| DR| UR| R | DR| R | D | DR|<br />
 UR| UR| DR| UR| UR| UR| R | D | DL| L |<br />

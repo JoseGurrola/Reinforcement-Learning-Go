@@ -1,5 +1,5 @@
 # Reinforcement-Learning-Go
-Ejercicios resueltos de "Reinforcement Learning: An Introduction de Richard S. Sutton and Andrew G. Barto", programados en el lenguaje Go
+Ejercicios resueltos por fran de "Reinforcement Learning: An Introduction de Richard S. Sutton and Andrew G. Barto", programados en el lenguaje Go
 
 ## Gambler's Problem
 **Resultados.<br />**
@@ -45,5 +45,14 @@ R | DR| DR| UR| R | UR| R | DR| UL| L |<br />
 DR| DR| R | DR| DR| DR| DR| D | DL| UL|<br />
 R | R | UR| UR| D | DR| DL| D | L | U |<br />
 0   0   0   1   1   1   3   3   0   0   <- wind <br /><br />
+
+## Cliff-Walking
+**Solución al ejercicio 6.6 <br />**
+L | R | R | R | R | R | R | R | R | D | R | D |
+R | R | D | R | R | R | R | R | R | D | R | D |
+R | R | R | R | R | R | R | R | R | R | R | D |
+U | <-| <-| <-| <-| <-| <-| <-| <-| <-| <-| G |
+
+
 
 

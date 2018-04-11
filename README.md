@@ -17,33 +17,33 @@ con ph = 0.55:<br />
 
 # Windy GridWorld
 Solución al ejercicio 6.5 <br />
-D | D | U | R | R | R | R | R | R | D |
-U | R | R | R | R | R | R | R | R | D |
-R | R | R | L | R | R | R | L | R | D |
-U | U | R | R | R | R | R | G | R | D |
-D | R | R | U | R | R | D | D | L | L |
-R | R | R | R | R | R | L | D | L | L |
-R | R | R | U | R | D | R | L | U | L |
+D | D | U | R | R | R | R | R | R | D | <br />
+U | R | R | R | R | R | R | R | R | D |<br />
+R | R | R | L | R | R | R | L | R | D |<br />
+U | U | R | R | R | R | R | G | R | D |<br />
+D | R | R | U | R | R | D | D | L | L |<br />
+R | R | R | R | R | R | L | D | L | L |<br />
+R | R | R | U | R | D | R | L | U | L |<br />
 0   0   0   1   1   1   2   2   1   0   <- wind <br /><br />
 
 Solución al ejercicio 6.9 Windy Gridworld with King’s Moves <br />
-R | L | R | R | DR| R | UR| UR| UR| D |
-D | DR| DR| R | UR| UR| DR| R | R | D |
-DR| D | D | R | R | R | DR| DR| R | DL|
-DL| D | DL| DR| R | U | R | G | DL| D |
-DL| DR| DR| DL| DL| DR| DR| D | L | L |
-DR| UR| U | DR| DR| DR| R | D | UL| L |
-DR| R | DR| DR| UR| UL| R | UL| D | UL|
+R | L | R | R | DR| R | UR| UR| UR| D |<br />
+D | DR| DR| R | UR| UR| DR| R | R | D |<br />
+DR| D | D | R | R | R | DR| DR| R | DL|<br />
+DL| D | DL| DR| R | U | R | G | DL| D |<br />
+DL| DR| DR| DL| DL| DR| DR| D | L | L |<br />
+DR| UR| U | DR| DR| DR| R | D | UL| L |<br />
+DR| R | DR| DR| UR| UL| R | UL| D | UL|<br />
 0   0   0   1   1   1   2   2   1   0   <- wind <br /><br />
 
 Solución al ejercicio 6.10 Stochastic Wind <br />
-UR| UR| R | DR| UR| DR| UR| U | R | DR|
-UR| UR| UR| DR| UR| R | DR| R | D | DR|
-UR| UR| DR| UR| UR| UR| R | D | DL| L |
-DR| R | D | R | UR| R | DR| G | L | DL|
-R | DR| DR| UR| R | UR| R | DR| UL| L |
-DR| DR| R | DR| DR| DR| DR| D | DL| UL|
-R | R | UR| UR| D | DR| DL| D | L | U |
+UR| UR| R | DR| UR| DR| UR| U | R | DR|<br />
+UR| UR| UR| DR| UR| R | DR| R | D | DR|<br />
+UR| UR| DR| UR| UR| UR| R | D | DL| L |<br />
+DR| R | D | R | UR| R | DR| G | L | DL|<br />
+R | DR| DR| UR| R | UR| R | DR| UL| L |<br />
+DR| DR| R | DR| DR| DR| DR| D | DL| UL|<br />
+R | R | UR| UR| D | DR| DL| D | L | U |<br />
 0   0   0   1   1   1   3   3   0   0   <- wind <br /><br />
 
 

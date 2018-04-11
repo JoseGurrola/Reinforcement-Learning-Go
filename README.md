@@ -48,10 +48,8 @@ R | R | UR| UR| D | DR| DL| D | L | U |<br />
 
 ## Cliff-Walking
 **Solución al ejercicio 6.6 <br />**
-L | R | R | R | R | R | R | R | R | D | R | D |<br />
-R | R | D | R | R | R | R | R | R | D | R | D |<br />
-R | R | R | R | R | R | R | R | R | R | R | D |<br />
-U | <-| <-| <-| <-| <-| <-| <-| <-| <-| <-| G |<br />
+![cliff](https://user-images.githubusercontent.com/6053293/38638533-6c98b59a-3d83-11e8-82b7-d8561233d0ac.png) <br />
+
 
 
 

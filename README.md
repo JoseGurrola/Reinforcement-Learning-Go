@@ -2,8 +2,8 @@
 Ejercicios resueltos de "Reinforcement Learning: An Introduction de Richard S. Sutton and Andrew G. Barto", programados en el lenguaje Go
 
 # Gambler's Problem
-Resultados.
-con ph = 0.4:
+Resultados.<br />
+con ph = 0.4:<br />
 ![valuefunctionfound0 4](https://user-images.githubusercontent.com/6053293/38634397-3ada7b44-3d77-11e8-91a0-0b4412a396b3.png)<br />
 ![finalpolicy0 4](https://user-images.githubusercontent.com/6053293/38634432-534fde9e-3d77-11e8-9bda-455114862e25.png)<br />
 

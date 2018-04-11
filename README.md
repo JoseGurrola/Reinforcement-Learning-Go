@@ -17,34 +17,13 @@ Ejercicios resueltos de "Reinforcement Learning: An Introduction de Richard S. S
 
 ## Windy GridWorld
 **Solución al ejercicio 6.5 <br />**
-D | D | U | R | R | R | R | R | R | D | <br />
-U | R | R | R | R | R | R | R | R | D |<br />
-R | R | R | L | R | R | R | L | R | D |<br />
-U | U | R | R | R | R | R | G | R | D |<br />
-D | R | R | U | R | R | D | D | L | L |<br />
-R | R | R | R | R | R | L | D | L | L |<br />
-R | R | R | U | R | D | R | L | U | L |<br />
-0   0   0   1   1   1   2   2   1   0   <- wind <br /><br />
+![1](https://user-images.githubusercontent.com/6053293/38638664-d946fa4e-3d83-11e8-90ad-33535556e3d9.png)<br />
 
 **Solución al ejercicio 6.9 Windy Gridworld with King’s Moves <br />**
-R | L | R | R | DR| R | UR| UR| UR| D |<br />
-D | DR| DR| R | UR| UR| DR| R | R | D |<br />
-DR| D | D | R | R | R | DR| DR| R | DL|<br />
-DL| D | DL| DR| R | U | R | G | DL| D |<br />
-DL| DR| DR| DL| DL| DR| DR| D | L | L |<br />
-DR| UR| U | DR| DR| DR| R | D | UL| L |<br />
-DR| R | DR| DR| UR| UL| R | UL| D | UL|<br />
-0   0   0   1   1   1   2   2   1   0   <- wind <br /><br />
+![2](https://user-images.githubusercontent.com/6053293/38638726-051e5a40-3d84-11e8-816a-a1796d9b593a.png)<br />
 
 **Solución al ejercicio 6.10 Stochastic Wind <br />**
-UR| UR| R | DR| UR| DR| UR| U | R | DR|<br />
-UR| UR| UR| DR| UR| R | DR| R | D | DR|<br />
-UR| UR| DR| UR| UR| UR| R | D | DL| L |<br />
-DR| R | D | R | UR| R | DR| G | L | DL|<br />
-R | DR| DR| UR| R | UR| R | DR| UL| L |<br />
-DR| DR| R | DR| DR| DR| DR| D | DL| UL|<br />
-R | R | UR| UR| D | DR| DL| D | L | U |<br />
-0   0   0   1   1   1   3   3   0   0   <- wind <br /><br />
+![3](https://user-images.githubusercontent.com/6053293/38638785-2ca1db32-3d84-11e8-96e8-b7b5e5e89303.png)<br />
 
 ## Cliff-Walking
 **Solución al ejercicio 6.6 <br />**

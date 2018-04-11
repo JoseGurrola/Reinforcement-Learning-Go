@@ -9,7 +9,7 @@ import (
 
 const (
 	GOAL = 100
-	ph   = 0.4    //Probabilidad de que el lanzamiento sea cara
+	ph   = 0.55   //Probabilidad de que el lanzamiento sea cara
 	γ    = 1 - ph //Factor de olvido
 	θ    = 0.0000000001
 )

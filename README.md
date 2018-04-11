@@ -4,6 +4,3 @@ Ejercicios resueltos de "Reinforcement Learning: An Introduction de Richard S. S
 # Gambler's Problem
 Resultados.
 con ph = 0.4:
-
-Reinforcement-Learning-Go/Gambler's Problem/valueFunctionFound.png
-Reinforcement-Learning-Go/Gambler's Problem/FinalPolicy.png

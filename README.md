@@ -1,6 +1,6 @@
 # Reinforcement-Learning-Go
 Ejercicios resueltos de "Reinforcement Learning: An Introduction de Richard S. Sutton and Andrew G. Barto", programados en el lenguaje Go
-<div style="text-align:center">
+
 # Gambler's Problem
 Resultados.<br />
 con ph = 0.4:<br /> 
